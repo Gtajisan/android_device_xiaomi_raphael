@@ -1,0 +1,6 @@
+ro.board.platform=msmnile
+persist.sys.isUsbOtgEnabled=true
+vendor.gatekeeper.disable_spu=true
+ro.adb.secure=0
+ro.boot.avb_version=1.0
+ro.boot.vbmeta.avb_version=1.0
